@@ -72,6 +72,10 @@ body {
     margin: 10% 35% 1% 35%;
 }
 
+.formulario__image-erro {
+    width: 100%;
+}
+
 .mensagem__titulo {
     color: var(--azul-medio);
     font-weight: bold;
