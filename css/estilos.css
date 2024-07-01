@@ -67,10 +67,16 @@ body {
     width: 30%;
 }
 
+.mensagem__image-erro {
+    width: 30%;
+    margin: 10% 35% 1% 35%;
+}
+
 .mensagem__titulo {
     color: var(--azul-medio);
     font-weight: bold;
     font-size: 21px;
+    width: 100%;
 }
 
 .pesquisar__input {
