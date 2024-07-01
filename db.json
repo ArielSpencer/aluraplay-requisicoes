@@ -71,20 +71,6 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 11
-    },
-    {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
-    },
-    {
       "titulo": "Como entregar mais projetos em menos tempo com APIs de mercado, com @Sensedia",
       "descricao": "1 mil visualizações",
       "url": "https://www.youtube.com/embed/YSo54Ak8A2g",
@@ -99,25 +85,11 @@
       "imagem": "https://i.ytimg.com/vi/Jl8nMCY2cWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjDNz_7sakiJ0M_f2R9l45NqPCYg"
     },
     {
-      "titulo": "O Poder da Comunidade e Diversidade na Tecnologia com ‪@IanaChan‬",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/AzKGdxR_RZ8?si=qCKlbpEEjvIL7z2u",
-      "imagem": "https://i.ytimg.com/vi/Jl8nMCY2cWY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDjDNz_7sakiJ0M_f2R9l45NqPCYg",
-      "id": "FwjYchC"
-    },
-    {
-      "titulo": "teste video error",
-      "descricao": "5 mil visualizações",
-      "url": "teste link error",
-      "imagem": "teste imagem error",
-      "id": "HejULX5"
-    },
-    {
-      "titulo": "skjefz",
-      "descricao": "5 mil visualizações",
-      "url": "teklanws",
-      "imagem": "zkdjfz",
-      "id": "CDcyQ5P"
+      "titulo": "Como desenvolver boas práticas de programação? com Fabio Akita | #HipstersPontoTube",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/GUanHEGlje4",
+      "imagem": "https://i.ytimg.com/vi/GUanHEGlje4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAThwUWF_hkwWKSHijba89f_j-JyA",
+      "id": "1VrXGu4"
     }
   ]
 }
